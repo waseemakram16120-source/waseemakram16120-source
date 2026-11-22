@@ -11,7 +11,7 @@
       <p>
         🎯 <strong>Open to internships &amp; junior developer roles</strong><br/>
         🔭 <strong>Currently:</strong> building MathQuest, my Final Year Project<br/>
-        🚀 <strong>Live project:</strong> <a href="https://cadettocsp.vercel.app">cadettocsp.vercel.app</a><br/>
+        🚀 <strong>Live projects:</strong> <a href="https://cadettocsp.vercel.app">cadettocsp.vercel.app</a> · <a href="https://eventflow-murex.vercel.app">eventflow-murex.vercel.app</a><br/>
         📫 <strong>Email:</strong> waseemakram16120@gmail.com
       </p>
     </td>
@@ -40,8 +40,9 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/waseemakram16120-source/EventManagementSystem">🎫 EventManagementSystem</a></h3>
-      <p>Event management web application — create, organise and manage events end to end.</p>
-      <p><code>JavaScript</code> <code>HTML/CSS</code></p>
+      <p>Full-stack event management platform — create events, RSVP, search &amp; sort. 8 upcoming events with demo login.</p>
+      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code></p>
+      <p>🔗 <strong>Live:</strong> <a href="https://eventflow-murex.vercel.app">eventflow-murex.vercel.app</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/waseemakram16120-source/doctorhub">🩺 doctorhub</a></h3>
