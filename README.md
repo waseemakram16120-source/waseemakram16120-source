@@ -45,9 +45,10 @@
       <p>🔗 <strong>Live:</strong> <a href="https://eventflow-murex.vercel.app">eventflow-murex.vercel.app</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/waseemakram16120-source/doctorhub">🩺 doctorhub</a></h3>
-      <p>Doctor &amp; healthcare web application.</p>
-      <p><code>JavaScript</code> <code>HTML/CSS</code></p>
+            <h3><a href="https://github.com/waseemakram16120-source/Portfolio">💼 Portfolio</a></h3>
+            <p>Personal portfolio — React + Vite, dark orange-gold design with education, skills, projects and contact.</p>
+      <p><code>React</code> <code>Vite</code> <code>JavaScript</code> <code>CSS</code>
+            <p>🔗 <strong>Live:</strong> <a href="https://portfolio-three-jet-64.vercel.app/">portfolio-three-jet-64.vercel.app</a></p>
     </td>
   </tr>
 </table>
